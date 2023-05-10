@@ -1,0 +1,21 @@
+%NProcShared=2
+%mem=110gb
+%chk=/scratch1/svicchi/G09-78655.pbs02/02-freq/FeFeFe-A-1xH2O-freq.chk
+#p freq=raman scale=0.967  guess=read geom=allcheck gen um06l int=grid=ultrafine scf=(xqc,intrep,maxconventionalcycle=150) pop=(hirshfeld) nosymm
+
+@/zfs/curium/svicchi/00-MOF/01-Gaussian/zw-basis-set/def2-TZVP/H.gbs
+****
+@/zfs/curium/svicchi/00-MOF/01-Gaussian/zw-basis-set/def2-TZVP/O.gbs
+****
+@/zfs/curium/svicchi/00-MOF/01-Gaussian/zw-basis-set/def2-TZVP/C.gbs
+****
+@/zfs/curium/svicchi/00-MOF/01-Gaussian/zw-basis-set/def2-TZVP/Fe.gbs
+****
+
+
+
+
+
+
+  
+
