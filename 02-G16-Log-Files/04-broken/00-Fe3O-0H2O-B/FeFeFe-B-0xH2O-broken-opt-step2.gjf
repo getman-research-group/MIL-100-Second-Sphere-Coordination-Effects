@@ -1,0 +1,14 @@
+# SP Geom=AllCheckpoint um06l/Def2TZVP int=grid=ultrafine scf=(xqc,intrep,maxconventionalcycle=1000) pop=(CM5) nosymm guess=read
+
+FeFeFe-B-0xH2O
+
+0 5 -6 1 0 1 -2 1 4 5 3 6 3 -6 -2 1
+
+
+
+
+
+
+
+
+
